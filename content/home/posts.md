@@ -5,14 +5,14 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-draft: true
+
 
 
 # Order that this section appears on the page.
-weight: "45"
+weight: "65"
 
 title: Recent Posts
-subtitle:
+subtitle: Stay Tuned
 
 content:
   # Page type to display. E.g. post, talk, publication...

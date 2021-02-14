@@ -5,13 +5,14 @@ widget: pages
 
 # This file represents a page section.
 headless: false
-active: false
+
+
 
 # Order that this section appears on the page.
-weight: 70
+weight: 80
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: Coming Soon
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -23,9 +24,9 @@ content:
     author: ""
     category: ""
     tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
+    exclude_featured: true
+    exclude_future: true
+    exclude_past: true
     publication_type: ""
   # Choose how many pages you would like to offset by
   offset: 0
