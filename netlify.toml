@@ -1,8 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL"
-  publish = "/opt/build/repo/public"
-  publishOrigin = "config"
-
+  publish = "/public"
+  
 [build.environment]
   HUGO_VERSION = "0.97.3"
   HUGO_ENABLEGITINFO = "true"
