@@ -16,12 +16,3 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
   
-  2:56:53 PM:   build:
-2:56:53 PM:     command: hugo
-2:56:53 PM:     commandOrigin: config
-2:56:53 PM:     environment:
-2:56:53 PM:       - HUGO_VERSION
-2:56:53 PM:       - HUGO_ENABLEGITINFO
-2:56:53 PM:       - HUGO_ENV
-2:56:53 PM:     publish: /opt/build/repo/public
-2:56:53 PM:     publishOrigin: config
