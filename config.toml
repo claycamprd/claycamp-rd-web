@@ -1,7 +1,7 @@
 theme: "starter-academic"
 baseURL: https://claycamp-cra.com/
 languageCode: en-us
-title: Rebecca Claycamp
+title: "Rebecca Claycamp"
 
 markup:
   goldmark:
