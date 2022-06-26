@@ -5,3 +5,12 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
+theme: "starter-academic"
+baseURL: https://claycamp-cra.com/
+languageCode: en-us
+title: Rebecca Claycamp
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
