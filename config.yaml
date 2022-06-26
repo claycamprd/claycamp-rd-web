@@ -1,4 +1,4 @@
-theme: "starter-academic"
+theme: "starter-blog"
 baseURL: https://claycamp-cra.com/
 languageCode: en-us
 title: "Rebecca's Home Page"
