@@ -1,0 +1,9 @@
+theme: "exampleSite"
+baseURL: https://claycamp-cra.com/
+languageCode: en-us
+title: "Rebecca's Home Page"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
