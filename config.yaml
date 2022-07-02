@@ -1,4 +1,4 @@
-theme: "exampleSite"
+theme: "starter-hugo-academic"
 baseURL: https://claycamp-cra.com/
 languageCode: en-us
 title: "Rebecca's Home Page"
