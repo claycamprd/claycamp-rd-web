@@ -3,7 +3,7 @@
     "path": "~/GitHub/claycamp-rd-web/netlify.toml",
     "project_path": "netlify.toml",
     "type": "toml",
-    "hash": "2877107344",
+    "hash": "1130759104",
     "contents": "",
     "dirty": false,
     "created": 1656105662387.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1656082475,
+    "lastKnownWriteTime": 1656676738,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1656082475,
+    "last_content_update": 1656676738,
     "read_only": false,
     "read_only_alternatives": []
 }
