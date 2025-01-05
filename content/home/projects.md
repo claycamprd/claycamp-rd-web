@@ -28,8 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Research Administration
+    tag: SRA
   - name: Other
     tag: Demo
 
